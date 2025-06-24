@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 
 5x Hackathon Winner<br>SIH'24 Grand Finalist<br>CS Student
 
 
